@@ -1,0 +1,132 @@
+@charset "UTF-8";
+/* CSS Document */
+
+a:link {text-decoration:none; color:#000000}
+a:visited {text-decoration:none; color:#000000}
+a:hover {text-decoration:underline;}
+a:active {text-decoration:underline;}
+
+ul li{
+	list-style-type:none;
+}
+
+body
+{
+background:#3e4647;
+font-size:16px;
+}
+
+#wrap{
+	width:950px;
+	height:980px;
+	margin-left:auto;
+	margin-right:auto;
+	background-image:url(images/contentBackground.png);
+	background-repeat:no-repeat;
+	z-index:0;
+}
+
+#sidebarWrap{
+	padding-top:5px;
+	margin-left:23px;
+	margin-right:auto;
+	width:270px;
+	height:930px;
+}
+#contentWrap{
+	position:relative;
+	top:-950px;
+	padding-top:10px;
+	margin-left:0px;
+	margin-right:0px;
+	width:500px;
+	height:930px;	
+}
+
+#sidebar {
+	position:relative;
+	left:250px;
+	top: -745px;
+	
+}
+
+#logoSmall {
+	position:relative;
+	left:10px;
+	top:45px;
+	
+}
+
+#creativeWriting{
+	position:relative;
+	left:25px;
+	top: 80px;	
+}
+
+#poetryLink {
+	position:relative;
+	left:70px;
+	top: 100px;
+	
+}
+
+#poems{
+	position:relative;
+	font-size:15px;
+	top: 110px;
+	left:50px;
+	z-index:1;
+}
+
+#shortStoriesLink{
+	position:relative;
+	top:120px;
+	left:67px;
+	
+}
+
+#viewGalleryLink{
+	position:relative;
+	top:150px;
+	left:50px;
+	
+}
+
+#campusHappeningsLink{
+	position:relative;
+	top:140px;
+	left:50px;
+}
+
+#infoLink{
+	position:relative;
+	top:150px;
+	left:40px;
+}
+
+#submissionsLink{
+	position:relative;
+	top:130px;
+	left:35px;
+}
+
+#staffLink{
+position:relative;
+	top:120px;
+	left:20px;	
+}
+
+#poetryHeader{
+	position:relative;
+	top:75px;
+	left:500px;	
+}
+
+#textBox{
+	position:relative;
+	height:670px;
+	width:500px;
+	overflow:auto;
+	top:150px;
+	left:350px;	
+}

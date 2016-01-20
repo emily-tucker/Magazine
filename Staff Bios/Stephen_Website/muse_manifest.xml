@@ -1,0 +1,143 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1423688189883">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_b-master.css" crc="450043020" ref="calli:typo:photo:design:illustration"/>
+    <file name="master_a-master.css" crc="4247368435" ref="index"/>
+    <file name="index.css" crc="4068320726" ref="index"/>
+    <file name="iefonts_index.css" crc="196111137" ref="index"/>
+    <file name="calli.css" crc="74093568" ref="calli"/>
+    <file name="iefonts_calli.css" crc="3874682295" ref="calli"/>
+    <file name="typo.css" crc="4148532483" ref="typo"/>
+    <file name="iefonts_typo.css" crc="32355609" ref="typo"/>
+    <file name="photo.css" crc="54589549" ref="photo"/>
+    <file name="iefonts_photo.css" crc="171755077" ref="photo"/>
+    <file name="design.css" crc="261410943" ref="design"/>
+    <file name="iefonts_design.css" crc="291872501" ref="design"/>
+    <file name="illustration.css" crc="3973669563" ref="illustration"/>
+    <file name="iefonts_illustration.css" crc="83472092" ref="illustration"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="museutils.js" crc="3777594392" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="pie.js" crc="3827607177" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="webpro.js" crc="474087315" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="form_check.php" crc="306825315" ref="index"/>
+    <file name="form_throttle.php" crc="4293816517" ref="index"/>
+    <file name="form_process.php" crc="109188895" ref="index"/>
+    <file name="form-u446.php" crc="3909523441" ref="index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:design:illustration:calli:typo:photo"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="design:illustration:calli:typo:photo"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="design:illustration:calli:typo:photo"/>
+    <file name="touchswipe.js" crc="100683906" ref="design:illustration:calli:typo:photo"/>
+  </folder>
+  <folder name="images">
+    <file name="buttonpersonal_logo-u383-fr.png" crc="4169559410" ref="index"/>
+    <file name="buttonpersonal_logo-u383-r-fr.png" crc="3770603027" ref="index"/>
+    <file name="buttonpersonal_logo-u383-m-fr.png" crc="253109669" ref="index"/>
+    <file name="img_0353-crop-u430.jpg" crc="3907024050" ref="index"/>
+    <file name="mtn.png" crc="142823552" ref="index"/>
+    <file name="calligraphybadge-u606-fr.png" crc="4071669346" ref="index:calli"/>
+    <file name="calligraphybadge-u606-r-fr.png" crc="4071669346" ref="index"/>
+    <file name="design_badge-u618-fr.png" crc="4095248331" ref="index:design"/>
+    <file name="design_badge-u618-r-fr.png" crc="4095248331" ref="index"/>
+    <file name="illustrationbadge copy-u632-fr.png" crc="4046305965" ref="index:illustration"/>
+    <file name="illustrationbadge copy-u632-r-fr.png" crc="4046305965" ref="index"/>
+    <file name="photo_badge-u644-fr.png" crc="115026061" ref="index:photo"/>
+    <file name="photo_badge-u644-r-fr.png" crc="115026061" ref="index"/>
+    <file name="typobadge copy-u656-fr.png" crc="466887632" ref="index:typo"/>
+    <file name="typobadge copy-u656-r-fr.png" crc="466887632" ref="index"/>
+    <file name="stephen_mugshot.jpg" crc="69527563" ref="index"/>
+    <file name="buttonmail-u407-fr.png" crc="169387888" ref="index"/>
+    <file name="buttonmail-u407-r-fr.png" crc="188011069" ref="index"/>
+    <file name="buttonlinkedin-u411-fr.png" crc="4165453363" ref="index"/>
+    <file name="buttonlinkedin-u411-r-fr.png" crc="3996025919" ref="index"/>
+    <file name="buttontumblr-u408-fr.png" crc="56910846" ref="index"/>
+    <file name="buttontumblr-u408-r-fr.png" crc="3932209635" ref="index"/>
+    <file name="buttonbehance-u410-fr.png" crc="3855039422" ref="index"/>
+    <file name="buttonbehance-u410-r-fr.png" crc="4131996201" ref="index"/>
+    <file name="buttontwitter-u409-fr.png" crc="466613290" ref="index"/>
+    <file name="buttontwitter-u409-r-fr.png" crc="4100229657" ref="index"/>
+    <file name="u466-17.png" crc="361568753" ref="index"/>
+    <file name="u466-17-r.png" crc="324501888" ref="index"/>
+    <file name="u466-17-m.png" crc="4254653537" ref="index"/>
+    <file name="u466-17-fs.png" crc="3884684169" ref="index"/>
+    <file name="wolf_thirdcolor_flat.jpg" crc="3803120822" ref="design"/>
+    <file name="blank.gif" crc="4208392903" ref="design:illustration:calli:typo:photo"/>
+    <file name="wolf_brightcolors_flat.jpg" crc="4094647968" ref="design"/>
+    <file name="wolf_land_flat.jpg" crc="484250556" ref="design"/>
+    <file name="tree-rings_black.jpg" crc="515514879" ref="design"/>
+    <file name="package_logo.jpg" crc="225021417" ref="design"/>
+    <file name="presentation_package.jpg" crc="505252793" ref="design"/>
+    <file name="brochure.jpg" crc="92509789" ref="design"/>
+    <file name="snaegele_eagerwolf.jpg" crc="6187700" ref="design"/>
+    <file name="snaegele_russianconstructivism.jpg" crc="499789645" ref="design"/>
+    <file name="magazine_spread.jpg" crc="468177633" ref="design"/>
+    <file name="outcome.jpg" crc="3837702276" ref="design"/>
+    <file name="six_shooter_story.jpg" crc="216276725" ref="design"/>
+    <file name="wolf_thirdcolor_flat231x260.jpg" crc="8980951" ref="design"/>
+    <file name="wolf_brightcolors_flat227x260.jpg" crc="3922049589" ref="design"/>
+    <file name="wolf_land_flat226x260.jpg" crc="4210583242" ref="design"/>
+    <file name="tree-rings_black304x131.jpg" crc="4119394356" ref="design"/>
+    <file name="package_logo304x154.jpg" crc="3936134365" ref="design"/>
+    <file name="presentation_package304x242.jpg" crc="4153759446" ref="design"/>
+    <file name="brochure232x260.jpg" crc="526177713" ref="design"/>
+    <file name="snaegele_eagerwolf304x231.jpg" crc="3782896444" ref="design"/>
+    <file name="snaegele_russianconstructivism269x260.jpg" crc="234959855" ref="design"/>
+    <file name="magazine_spread304x196.jpg" crc="389362432" ref="design"/>
+    <file name="outcome304x244.jpg" crc="3800953322" ref="design"/>
+    <file name="six_shooter_story304x195.jpg" crc="151346455" ref="design"/>
+    <file name="loading.gif" crc="3815509949" ref="design:illustration:calli:typo:photo"/>
+    <file name="stephen-illustration001.jpg" crc="4290404152" ref="illustration"/>
+    <file name="wolf.jpg" crc="44404351" ref="illustration"/>
+    <file name="stephen-illustration001345x259.jpg" crc="197621297" ref="illustration"/>
+    <file name="wolf351x260.jpg" crc="413740503" ref="illustration"/>
+    <file name="fish.jpg" crc="3933185385" ref="calli"/>
+    <file name="quote.jpg" crc="3813035550" ref="calli"/>
+    <file name="fish304x171.jpg" crc="4214782681" ref="calli"/>
+    <file name="quote173x258.jpg" crc="3943271730" ref="calli"/>
+    <file name="kerning.jpg" crc="3924898137" ref="typo"/>
+    <file name="tickingbomb_typo.jpg" crc="195576239" ref="typo"/>
+    <file name="helvetica.jpg" crc="6470720" ref="typo"/>
+    <file name="megan.jpg" crc="4255748169" ref="typo"/>
+    <file name="pers_type_proj.jpg" crc="505094828" ref="typo"/>
+    <file name="kerning232x282.jpg" crc="533394311" ref="typo"/>
+    <file name="helvetica304x146.jpg" crc="8652723" ref="typo"/>
+    <file name="megan207x282.jpg" crc="3793602473" ref="typo"/>
+    <file name="pers_type_proj302x277.jpg" crc="453394325" ref="typo"/>
+    <file name="accordian_river.jpg" crc="3904244554" ref="photo"/>
+    <file name="accordian_truck.jpg" crc="4269891386" ref="photo"/>
+    <file name="boxing_pose.jpg" crc="415862202" ref="photo"/>
+    <file name="fumetti.jpg" crc="104267290" ref="photo"/>
+    <file name="galaxy.jpg" crc="4124834704" ref="photo"/>
+    <file name="grass.jpg" crc="274938645" ref="photo"/>
+    <file name="hartmans_digital.jpg" crc="284833929" ref="photo"/>
+    <file name="img_0409.jpg" crc="238898137" ref="photo"/>
+    <file name="mountaineer.jpg" crc="3810123651" ref="photo"/>
+    <file name="piognant2.jpg" crc="3834267172" ref="photo"/>
+    <file name="poignant1.jpg" crc="173586285" ref="photo"/>
+    <file name="tennisball.jpg" crc="4290829092" ref="photo"/>
+    <file name="tree_filmcamera.jpg" crc="529269537" ref="photo"/>
+    <file name="accordian_river-crop-u1967.jpg" crc="4195686534" ref="photo"/>
+    <file name="accordian_truck-crop-u2078.jpg" crc="3781919773" ref="photo"/>
+    <file name="boxing_pose317x260.jpg" crc="181864377" ref="photo"/>
+    <file name="fumetti347x260.jpg" crc="4215616022" ref="photo"/>
+    <file name="galaxy347x260.jpg" crc="3870071594" ref="photo"/>
+    <file name="grass-crop-u2114.jpg" crc="116033225" ref="photo"/>
+    <file name="hartmans_digital-crop-u2123.jpg" crc="4270747733" ref="photo"/>
+    <file name="img_0409-crop-u2132.jpg" crc="53015719" ref="photo"/>
+    <file name="mountaineer-crop-u2141.jpg" crc="4025274473" ref="photo"/>
+    <file name="piognant2-crop-u2150.jpg" crc="216521892" ref="photo"/>
+    <file name="poignant1-crop-u2159.jpg" crc="389414328" ref="photo"/>
+    <file name="tennisball-crop-u2177.jpg" crc="4096919132" ref="photo"/>
+    <file name="tree_filmcamera-crop-u2186.jpg" crc="3884615177" ref="photo"/>
+  </folder>
+  <file name="index.html" crc="125266737" mt="1423688141808" redirect="true"/>
+  <file name="design.html" crc="493152165" mt="1423688185040" redirect="true"/>
+  <file name="illustration.html" crc="317111177" mt="1423688185535" redirect="true"/>
+  <file name="calli.html" crc="3971775669" mt="1423688184504" redirect="true"/>
+  <file name="typo.html" crc="3877590564" mt="1423688183848" redirect="true"/>
+  <file name="photo.html" crc="4081710805" mt="1423688141806" redirect="true"/>
+</manifest>
